@@ -4,9 +4,9 @@
 
 This theme comes from another theme created by [Kevin Altman](https://github.com/itsthatguy/theme-itg-flat). This is a simple and flat theme for Sublim Text which uses Monokai color scheme.
 
-## Screenshots
+## Screenshot
 
-Coming Soon
+![Screenhot](http://imgur.com/tKXdtcU)
 
 ## Installation
 
