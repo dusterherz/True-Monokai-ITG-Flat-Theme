@@ -6,7 +6,11 @@ This theme comes from another theme created by [Kevin Altman](https://github.com
 
 ## Screenshots
 
-Comming Soon
+Coming Soon
+
+## Installation
+
+Coming soon
 
 ## License
 
