@@ -6,7 +6,7 @@ This theme comes from another theme created by [Kevin Altman](https://github.com
 
 ## Screenshot
 
-![Screenhot](http://imgur.com/tKXdtcU)
+![Screenshot](http://i.imgur.com/tKXdtcU.png)
 
 ## Installation
 
