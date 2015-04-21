@@ -1,4 +1,4 @@
-# Theme True Monokai ITG Flat
+# True Monokai ITG Flat Theme
 
 ## Description
 
