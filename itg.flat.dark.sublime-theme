@@ -829,7 +829,7 @@
   // Text input field item
   {
     "class": "text_line_control",
-    "layer0.texture": "theme-itg-flat/assets/input.png",
+    "layer0.texture": "",
     "layer0.tint": [39, 40, 34],
     "layer0.opacity": 1.0,
     "layer0.inner_margin": [10,10,10,10],
@@ -993,14 +993,14 @@
   {
     "class": "icon_button_control",
     "attributes": ["selected", "hover"],
-    "layer0.tint": [249, 38, 114]
+    "layer0.tint": [82, 197, 219]
   },
   // :: SELECTED
   {
     "class": "icon_button_control",
     "attributes": ["selected"],
     "layer0.texture": "",
-    "layer0.tint": [249, 38, 114]
+    "layer0.tint": [102, 217, 239]
   },
 
 //
@@ -1019,7 +1019,7 @@
   {
     "class": "icon_regex",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_regex",
@@ -1039,7 +1039,7 @@
   {
     "class": "icon_case",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_case",
@@ -1059,7 +1059,7 @@
   {
     "class": "icon_whole_word",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_whole_word",
@@ -1083,7 +1083,7 @@
   {
     "class": "icon_context",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_context",
@@ -1103,7 +1103,7 @@
   {
     "class": "icon_use_buffer",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_use_buffer",
@@ -1127,7 +1127,7 @@
   {
     "class": "icon_reverse",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_reverse",
@@ -1147,7 +1147,7 @@
   {
     "class": "icon_wrap",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_wrap",
@@ -1167,7 +1167,7 @@
   {
     "class": "icon_in_selection",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_in_selection",
@@ -1191,7 +1191,7 @@
   {
     "class": "icon_preserve_case",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_preserve_case",
@@ -1214,7 +1214,7 @@
   {
     "class": "icon_highlight",
     "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
-    "layer0.tint": [255, 255, 255, 200]
+    "layer0.tint": [255, 255, 255, 255]
   },
   {
     "class": "icon_highlight",
