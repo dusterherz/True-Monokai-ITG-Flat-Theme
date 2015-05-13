@@ -2,7 +2,7 @@
 //
 // Black : [39, 40, 34]
 // Pink : [249, 38, 114]
-// Blue : [102, 217, 239] 
+// Blue : [102, 217, 239]
 // Purple : [174, 129, 255]
 // Green : [166, 226, 46]
 // Orange : [253, 151, 31]
@@ -27,7 +27,7 @@
     "tab_overlap": 0,
     "tab_width": 160,
     "tab_min_width": 48,
-    "tab_height": 30,
+    "tab_height": 32,
     "mouse_wheel_switch": false
   },
   {
@@ -79,7 +79,7 @@
     "fade": false,
     "fg": [151, 144, 141, 255],
     "font.bold" : false,
-    "font.size" : 12
+    "font.size" : 12,
   },
 
   // Active Tab
@@ -220,7 +220,7 @@
   {
     "class": "tabset_control",
     "settings": ["itg_small_tabs"],
-    "tab_height": 32
+    "tab_height": 32,
   },
 
 //
@@ -895,14 +895,14 @@
     "class": "quick_panel_label",
     "fg": [180, 180, 180],
     "match_fg": [255, 255, 255, 200],
-    "selected_fg": [174, 129, 255],
+    "selected_fg": [255, 255, 255, 200],
     "selected_match_fg": [255, 255, 255, 200]
   },
   {
     "class": "quick_panel_path_label",
     "fg": [180, 180, 180],
     "match_fg": [255, 255, 255, 200],
-    "selected_fg": [174, 129, 255],
+    "selected_fg": [255, 255, 255, 200],
     "selected_match_fg": [255, 255, 255, 200]
   },
   {
